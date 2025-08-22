@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#msg{
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    color: #333;
+    font-size: 1.2em;
+    height: 300px;
+    width: 500px;
+    border: 2px solid #0c0c0c;
+    background-color: #748DAE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 40px;
+padding-right: 40px;
+
+}
+#button{
+  border-radius: 50%;
+  display:flex;
+  justify-items:center;
+  justify-content: center;
+  border: 2px solid #0c0c0c;
+  
+}
+#greeting{
+  color: #722323;
+}
+#time{
+  color: #064232;
+}
+#date{
+  color: #320A6B;
+}
+#main{
+display: flex;
+justify-content: center;
+justify-items: center;
+padding-top: 70px;
+}
